@@ -8,12 +8,14 @@ Picture in Picture using AVFoundation &amp; AVKit
 * in Storyboard, using AVKit Player View Controller
 
    ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Video/main/AVKit%20Player%20VC.png)
+   
+* output
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Video/main/output%201.png)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Video/main/output%202.png)
 
-code see:
+* code see:
 
       //
       //  ViewController.swift
