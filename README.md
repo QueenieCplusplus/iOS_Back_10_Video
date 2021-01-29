@@ -1,6 +1,10 @@
 # iOS_Back_10_Video
 Picture in Picture using AVFoundation &amp; AVKit
 
+* add mp4 res hereby
+
+![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Video/main/build%20phase%20-%20Bundle%20res.png)
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Video/main/output%201.png)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Video/main/output%202.png)
