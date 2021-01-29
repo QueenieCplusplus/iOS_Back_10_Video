@@ -50,3 +50,6 @@ Picture in Picture using AVFoundation &amp; AVKit
 
 
       }
+
+* setup for allowing VideoApp running in Background.
+
