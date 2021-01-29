@@ -52,4 +52,5 @@ Picture in Picture using AVFoundation &amp; AVKit
       }
 
 * setup for allowing VideoApp running in Background.
-
+ 
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Video/main/background%202.png)
